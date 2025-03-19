@@ -66,5 +66,5 @@ Make sure you have the following installed:
 
 ## Credits
 
-- Developed by **Philip Berlin**
+- Developed by **Philip Berlin and Maxim Dunkel**
 
